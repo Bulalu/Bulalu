@@ -1,4 +1,3 @@
-# git-port
 <h1 align="center">Hi 👋, I'm Elisha Bulalu</h1>
 <h3 align="center">A passionate blockchain/ML developer from Tanzania</h3>
 
