@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Musix](https://ranks-wheat.vercel.app/)
 
-- 🌱 I’m currently learning **Solidity, Vyper**
+- 🌱 I’m currently learning **Solidity, Rust**
 
 - 👯 I’m looking to collaborate on **Smart Contracts and Machine Learning**
 
