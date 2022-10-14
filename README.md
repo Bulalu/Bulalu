@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/elisha_bulalu" target="blank"><img src="https://img.shields.io/twitter/follow/elisha_bulalu?logo=twitter&style=for-the-badge" alt="elisha_bulalu" /></a> </p>
 
-- 🔭 I’m currently working on [Musix](https://ranks-wheat.vercel.app/)
+- 🔭 I’m currently working on [Orbofi](https://orbofi.com/)
 
-- 🌱 I’m currently learning **Solidity, Rust**
+- 🌱 I’m currently learning **Solidity, Rust and ZK**
 
-- 👯 I’m looking to collaborate on **Smart Contracts and Machine Learning**
+- 👯 I’m looking to collaborate on **DeFi, GameFi, NFTs and ZK based programs**
 
 - 👨‍💻 All of my projects are available at [https://elisha-bulalu.vercel.app/](https://elisha-bulalu.vercel.app/)
 
