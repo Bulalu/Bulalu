@@ -7,7 +7,7 @@ I have loads of experience in developing decentralized applications (DApps) usin
 
 In addition to my technical skills, I am an experienced Python developer, with a proven track record of delivering high-quality code in a variety of projects. I am also a strong communicator and team player, with the ability to effectively collaborate with others to deliver complex blockchain solutions on time and on budget.
 
-If you have a project that could benefit from my expertise in Ethereum, cryptography, zero-knowledge proofs, and Python, please feel free to contact me. I look forward to working with you! 😊
+If you have a project that could benefit from my expertise in Ethereum, cryptography, zero-knowledge proofs, and Python, please feel free to contact me. I look forward to working with you! 
 
 
 
