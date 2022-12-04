@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Elisha Bulalu</h1>
 <h3 align="center">A passionate blockchain/ML developer from Tanzania</h3>
 
-Hi there! My name is [developer's name] and I am a super-talented 🤓 blockchain developer with a passion for creating innovative and secure 🔒 blockchain solutions using Ethereum, cryptography, zero-knowledge proofs, and Python 🐍.
+Hi there! My name is Elisha Bulalu and I am a super-talented 🤓 blockchain developer with a passion for creating innovative and secure 🔒 blockchain solutions using Ethereum, cryptography, zero-knowledge proofs, and Python 🐍.
 
 I have loads of experience in developing decentralized applications (DApps) using the Ethereum blockchain and smart contract development using Solidity. I am also a cryptography wizard 🧙‍♂️, with a particular focus on zero-knowledge proofs, and I have a strong understanding of how to use these techniques to enhance the security of blockchain systems.
 
